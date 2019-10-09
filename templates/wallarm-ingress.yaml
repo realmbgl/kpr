@@ -10,8 +10,6 @@ metadata:
     values.chart.helm.kubeaddons.mesosphere.io/wallarm-ingress: "https://raw.githubusercontent.com/wallarm/ingress-chart/v1.4.0/wallarm-ingress/values.yaml"
 spec:
   namespace: wallarm-ingress
-  category: security
-  overview: "This is the overview ..."
   kubernetes:
     minSupportedVersion: v1.15.3
   cloudProvider:
