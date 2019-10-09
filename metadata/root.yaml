@@ -7,7 +7,7 @@ wallarm-ingress:
   resources:
     provider:
       title: Wallarm
-      link: https://prometheus.io
+      link: https://wallarm.com/
     links:
       - type: resources
         title: wallarm ingress controller
